@@ -31,7 +31,7 @@
 
 ### API designed:
     void insert(node *&head, int key, int pos=0)
-    void delete(node *&head, int key)
+    void deletion(node *&head, int key)
     void reverse(node *&head)
 
 ### Problem:
@@ -40,7 +40,7 @@
     - All APIs takes head pointer (not reference) as the formal parameter, and all return the head of new list.
 
     node * insert(node *head, int key, int pos=0);
-    node * delete(node *head, int key);
+    node * deletion(node *head, int key);
     node *  reverse(node *head);
 
 ### Usage can be:
@@ -48,6 +48,6 @@
     node *head;
 
     head = insert(head, key, 0);
-    head = delete(head, key);
+    head = deletion(head, key);
     head = reverse(head);
 
