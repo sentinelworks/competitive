@@ -1,4 +1,6 @@
-# USACO Training Sessions
-    - Session 01. Linked List
-    - Session 15. Topological Sorting (USACO 4.4) 
-    - Session 17. Maximum Bipartite Matching ( vs Maximal matching)
+## Class 13. Hamiltonian path
+
+    Success is not final, failure is not fatal: it is the courage to continue that counts.
+
+        -― Winston S. Churchill
+
