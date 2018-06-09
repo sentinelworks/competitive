@@ -3,3 +3,7 @@
                 -- Albert Einstein
 
 
+## Graph Representation
+    adjacent list
+    adjacent matrix
+    edge list
