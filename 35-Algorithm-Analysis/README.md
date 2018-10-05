@@ -1,3 +1,6 @@
+#### `Diligence is the mother of good luck.`
+
+                                ―-  Benjamin Franklin
 
 Computational complexity theory
 
